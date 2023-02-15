@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IknkLuvRj85sq+tUOxT5tYf2SwA5Xz80aTDWtNOlEnQiJZTFe/Thln/vNxixrhYB2vqT1wgNuRS/ZnbeaBsm4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmeng\\Dev\\personal\\FunDiffusion\\Fasp\\Fasp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmeng\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

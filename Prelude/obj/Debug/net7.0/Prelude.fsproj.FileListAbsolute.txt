@@ -1,0 +1,13 @@
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\bin\Debug\net7.0\Prelude.deps.json
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\bin\Debug\net7.0\Prelude.dll
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\bin\Debug\net7.0\Prelude.pdb
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\bin\Debug\net7.0\Prelude.xml
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.fsproj.AssemblyReference.cache
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.AssemblyInfoInputs.cache
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.AssemblyInfo.fs
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.fsproj.CoreCompileInputs.cache
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.dll
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\refint\Prelude.dll
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.xml
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\Prelude.pdb
+C:\Users\vmeng\Dev\personal\FunDiffusion\Prelude\obj\Debug\net7.0\ref\Prelude.dll

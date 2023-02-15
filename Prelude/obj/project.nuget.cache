@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pBjkvmZhsjSBIubwYyvKWDHIgVwOgg6cLv2KpiRLhlbfWz9ncyt1PkUXeECrrlGUC20X/q7BcCt0F4HJRX0cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmeng\\Dev\\personal\\FunDiffusion\\Prelude\\Prelude.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmeng\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

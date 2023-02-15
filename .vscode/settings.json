@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "Frontend/src/**/*.js": true
+  },
+  "editor.tabSize": 2
+}

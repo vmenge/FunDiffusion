@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Home.fs" />
+    <Compile Include="App.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Fable.Browser.Dom" Version="2.14.0" />
+    <PackageReference Include="Fable.Core" Version="4.0.0-theta-007" />
+    <PackageReference Include="Fable.Elmish.HMR" Version="7.0.0" />
+    <PackageReference Include="Fable.React" Version="9.2.0" />
+    <PackageReference Include="Feliz" Version="2.4.0" />
+    <PackageReference Include="Fss-lib.Feliz" Version="2.1.1" />
+  </ItemGroup>
+</Project>
